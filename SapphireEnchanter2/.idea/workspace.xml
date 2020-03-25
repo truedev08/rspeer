@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9be801b8-d4f7-4ae6-ba53-565e1fadb7a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UzZiGgOUyzd5OzecGiJb5ZHIrC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.235" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9be801b8-d4f7-4ae6-ba53-565e1fadb7a2" name="Default Changelist" comment="" />
+      <created>1576361509010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576361509010</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1500" y="370" key="#Project_Structure" timestamp="1576495644821">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1500" y="370" key="#Project_Structure/0.23.2560.1364@0.23.2560.1364" timestamp="1576495644821" />
+    <state x="1266" y="366" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576495665214">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1266" y="366" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1576495665214" />
+    <state x="1713" y="412" key="#com.intellij.ide.util.MemberChooser" timestamp="1576449258146">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1713" y="412" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1364@0.23.2560.1364" timestamp="1576449258146" />
+    <state x="1277" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576570611411">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1277" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1576570611411" />
+    <state x="1289" y="286" key="SettingsEditor" timestamp="1576647773621">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1289" y="286" key="SettingsEditor/0.23.2560.1364@0.23.2560.1364" timestamp="1576647773621" />
+    <state x="418" y="537" key="com.intellij.ide.util.TipDialog" timestamp="1578882938534">
+      <screen x="0" y="23" width="2560" height="1363" />
+    </state>
+    <state x="418" y="537" key="com.intellij.ide.util.TipDialog/0.23.2560.1363@0.23.2560.1363" timestamp="1578882938534" />
+    <state x="1294" y="327" key="new project wizard" timestamp="1579026843317">
+      <screen x="0" y="23" width="2560" height="1363" />
+    </state>
+    <state x="1294" y="327" key="new project wizard/0.23.2560.1363@0.23.2560.1363" timestamp="1579026843317" />
+    <state x="1294" y="327" key="new project wizard/0.23.2560.1364@0.23.2560.1364" timestamp="1576362704438" />
+    <state x="1466" y="334" width="670" height="676" key="search.everywhere.popup" timestamp="1576620222446">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1466" y="334" width="670" height="676" key="search.everywhere.popup/0.23.2560.1364@0.23.2560.1364" timestamp="1576620222446" />
+  </component>
+</project>

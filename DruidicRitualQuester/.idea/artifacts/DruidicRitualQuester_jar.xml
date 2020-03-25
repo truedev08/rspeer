@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DruidicRitualQuester:jar">
+    <output-path>$PROJECT_DIR$/../compiled/</output-path>
+    <root id="archive" name="DruidicRitualQuester.jar">
+      <element id="module-output" name="DruidicRitualQuester" />
+    </root>
+  </artifact>
+</component>

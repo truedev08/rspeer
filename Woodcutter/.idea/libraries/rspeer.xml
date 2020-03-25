@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rspeer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../rspeer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

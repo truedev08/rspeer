@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Sapphire_Ring_Enchanter:jar">
+    <output-path>$PROJECT_DIR$/../compiled/</output-path>
+    <root id="archive" name="Sapphire_Ring_Enchanter.jar">
+      <element id="module-output" name="Sapphire_Ring_Enchanter" />
+    </root>
+  </artifact>
+</component>

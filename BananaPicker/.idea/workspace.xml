@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5256373b-dbf7-44e3-b14b-f7e684ed459a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VZe2cJxpgRneQqkba34gZh1eHn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.235" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5256373b-dbf7-44e3-b14b-f7e684ed459a" name="Default Changelist" comment="" />
+      <created>1577464838902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577464838902</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1814" y="427" key="#com.intellij.ide.util.MemberChooser" timestamp="1577474265929">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1814" y="427" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1364@0.23.2560.1364" timestamp="1577474265929" />
+    <state x="1739" y="458" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577489637664">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1739" y="458" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1577489637664" />
+    <state x="1489" y="286" key="SettingsEditor" timestamp="1580020228820">
+      <screen x="0" y="23" width="2560" height="1363" />
+    </state>
+    <state x="1489" y="286" key="SettingsEditor/0.23.2560.1363@0.23.2560.1363" timestamp="1580020228820" />
+    <state x="1489" y="286" key="SettingsEditor/0.23.2560.1364@0.23.2560.1364" timestamp="1577469341678" />
+    <state width="254" height="200" key="ShowFilterAction_Filter_Popup" timestamp="1577660313619">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state width="254" height="200" key="ShowFilterAction_Filter_Popup/0.23.2560.1364@0.23.2560.1364" timestamp="1577660313619" />
+    <state x="1109" y="339" width="670" height="676" key="search.everywhere.popup" timestamp="1577660317510">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1109" y="339" width="670" height="676" key="search.everywhere.popup/0.23.2560.1364@0.23.2560.1364" timestamp="1577660317510" />
+  </component>
+</project>

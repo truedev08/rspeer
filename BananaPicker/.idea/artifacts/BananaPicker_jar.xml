@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BananaPicker:jar">
+    <output-path>$PROJECT_DIR$/../compiled</output-path>
+    <root id="archive" name="BananaPicker.jar">
+      <element id="module-output" name="BananaPicker" />
+    </root>
+  </artifact>
+</component>

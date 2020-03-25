@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NardahShopSeller:jar">
+    <output-path>$PROJECT_DIR$/../compiled</output-path>
+    <root id="archive" name="NardahShopSeller.jar">
+      <element id="module-output" name="NardahShopSeller" />
+    </root>
+  </artifact>
+</component>

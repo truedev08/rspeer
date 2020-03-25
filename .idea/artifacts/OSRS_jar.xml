@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OSRS:jar">
+    <output-path>$PROJECT_DIR$/compiled/</output-path>
+    <root id="archive" name="OSRS.jar">
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/2.09.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

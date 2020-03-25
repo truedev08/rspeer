@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ThreadBuyer:jar">
+    <output-path>$PROJECT_DIR$/../compiled</output-path>
+    <root id="archive" name="ThreadBuyer.jar">
+      <element id="module-output" name="ThreadBuyer" />
+    </root>
+  </artifact>
+</component>

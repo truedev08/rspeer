@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RunepackPurchaser:jar">
+    <output-path>$PROJECT_DIR$/../compiled/</output-path>
+    <root id="archive" name="RunepackPurchaser.jar">
+      <element id="module-output" name="RunepackPurchaser" />
+    </root>
+  </artifact>
+</component>

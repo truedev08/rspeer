@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ChocolateBarGrinder:jar">
+    <output-path>$PROJECT_DIR$/../compiled</output-path>
+    <root id="archive" name="ChocolateBarGrinder.jar">
+      <element id="module-output" name="ChocolateBarGrinder" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Woodcutter:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f52ef63f-7d09-461e-b41e-4b39182a0582" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UDtxbSOiYM4Znu06laiMM4FwRv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.235" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f52ef63f-7d09-461e-b41e-4b39182a0582" name="Default Changelist" comment="" />
+      <created>1574903240746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574903240746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1457" y="370" key="#Project_Structure" timestamp="1575255725758">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1457" y="370" key="#Project_Structure/0.23.2560.1364@0.23.2560.1364" timestamp="1575255725758" />
+    <state x="1697" y="427" key="#com.intellij.ide.util.MemberChooser" timestamp="1575401962934">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1697" y="427" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1364@0.23.2560.1364" timestamp="1575401962934" />
+    <state x="1545" y="439" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575255520719">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1545" y="439" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1575255520719" />
+    <state x="1345" y="286" key="SettingsEditor" timestamp="1576489993466">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1345" y="286" key="SettingsEditor/0.23.2560.1364@0.23.2560.1364" timestamp="1576489993466" />
+    <state x="959" y="537" key="com.intellij.ide.util.TipDialog" timestamp="1575874692367">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="959" y="537" key="com.intellij.ide.util.TipDialog/0.23.2560.1364@0.23.2560.1364" timestamp="1575874692367" />
+    <state x="1278" y="327" key="new project wizard" timestamp="1575504731850">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1278" y="327" key="new project wizard/0.23.2560.1364@0.23.2560.1364" timestamp="1575504731850" />
+    <state x="1549" y="334" width="670" height="676" key="search.everywhere.popup" timestamp="1575264689735">
+      <screen x="0" y="23" width="2560" height="1364" />
+    </state>
+    <state x="1549" y="334" width="670" height="676" key="search.everywhere.popup/0.23.2560.1364@0.23.2560.1364" timestamp="1575264689735" />
+  </component>
+</project>

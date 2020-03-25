@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Mule_RunepackPurchaser:jar">
+    <output-path>$PROJECT_DIR$/../compiled/Mule</output-path>
+    <root id="archive" name="Mule_RunepackPurchaser.jar">
+      <element id="module-output" name="Mule_RunepackPurchaser" />
+    </root>
+  </artifact>
+</component>

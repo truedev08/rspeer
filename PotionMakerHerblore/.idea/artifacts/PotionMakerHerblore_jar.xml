@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PotionMakerHerblore:jar">
+    <output-path>$PROJECT_DIR$/../compiled/</output-path>
+    <root id="archive" name="PotionMakerHerblore.jar">
+      <element id="module-output" name="PotionMakerHerblore" />
+    </root>
+  </artifact>
+</component>
